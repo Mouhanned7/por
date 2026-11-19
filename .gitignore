@@ -1,0 +1,6 @@
+year-progress/.venv/
+year-progress/videos/
+year-progress/*.mp4
+year-progress/*.wav
+year-progress/*.png
+.DS_Store
